@@ -1,6 +1,6 @@
 import OwlGif from "../../assets/Owl.gif"
 import Course from "./Course/Course";
-import CourseForKids from "./Course_for_kids/CourseforKIds";
+import CourseForKids from "./Course_for_kids/CourseforKids";
 import StudyMaterials from "./StudyMaterials/StudyMaterials";
 import More from "./More/More";
 import { AnimatePresence, motion } from "motion/react";
